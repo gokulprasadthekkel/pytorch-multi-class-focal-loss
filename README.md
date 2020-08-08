@@ -8,4 +8,7 @@ Focal loss,originally developed for handling extreme foreground-background class
 
 ![Equation](images/equation.jpg)
 
+### Requirements:
+* torch >=1.2.0
+
 
